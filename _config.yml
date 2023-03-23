@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: f9730940b6fff3fec88b
+  clientSecret: e0742870cb08dd66ac5c53e76947dbe2bd6c607d
   repo: sky007ca.github.io
   owner: sky007ca
 
